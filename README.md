@@ -12,4 +12,4 @@ Every guest must eat and drink from all types of food and drink at least once.
 A guest can eat max 5 donuts and drink 5 glasses of drink, but can eat only 2 slices of cake.
 This will last until all food and drink is consumed.
 
--- Operating Systems / Semester Project (2019-2020)
+# Operating Systems / Semester Project (2019-2020)
