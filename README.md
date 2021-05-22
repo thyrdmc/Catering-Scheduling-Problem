@@ -1,4 +1,4 @@
-# Catering-Scheduling-Problem
+## Catering-Scheduling-Problem
  Catering scheduling problem is a classical synchronization problem.
  This project is coded in the C programming language.
 
